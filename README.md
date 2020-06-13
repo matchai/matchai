@@ -1,4 +1,4 @@
-<h3 align="center">👋 Howdy! I'm Matan</h3>
+<h3 align="center">👋 Howdy! I'm Matan.</h3>
 <p align="center">Developing performant applications and delightful user experiences ✨</p>
 
 ### What I'm up to
