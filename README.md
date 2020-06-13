@@ -5,6 +5,7 @@
 
 - At [**Auth0**](https://auth0.com/) developing tools for software quality
 - At [**AniChart**](https://anichart.net/) and [**AniList**](http://anilist.co/) designing and developing a social platform for sharing anime and manga
+- At [**NodeSchool**](https://nodeschool.io/) and [**freeCodeCamp**](https://www.freecodecamp.org/) Montreal mentoring Node and web developers
 - Working on [**Starship**](https://github.com/starship/starship), a minimal, blazing-fast, and infinitely customizable prompt for any shell
 
 ### Let's talk!
