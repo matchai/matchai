@@ -2,5 +2,6 @@
 <p align="center">Developing performant applications and delightful user experiences ✨</p>
 
 ### What I'm up to
-
-<img height="1em" src="./auth0-glyph.svg"> Developing tools for software quality at **Auth0**
+- Developing tools and infrastructure for software quality at [**Auth0**](https://auth0.com/)
+- Designing and developing an anime/manga tracking platform at [**AniChart**](https://anichart.net/) and [**AniList**](http://anilist.co/)
+- Building a blazing-fast, cross-platform, cross-shell prompt called [**Starship**](https://github.com/starship/starship)
