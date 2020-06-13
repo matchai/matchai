@@ -3,4 +3,4 @@
 
 ### What I'm up to
 
-<img src="./auth0_glyph.svg"> Developing tools for software quality at **Auth0**
+<img height="1em" src="./auth0-glyph.svg"> Developing tools for software quality at **Auth0**
