@@ -2,6 +2,13 @@
 <p align="center">Developing performant applications and delightful user experiences ✨</p>
 
 ### What I'm up to
-- Developing tools and infrastructure for software quality at [**Auth0**](https://auth0.com/)
-- Designing and developing an anime/manga tracking platform at [**AniChart**](https://anichart.net/) and [**AniList**](http://anilist.co/)
-- Building a blazing-fast, cross-platform, cross-shell prompt called [**Starship**](https://github.com/starship/starship)
+
+- At [**Auth0**](https://auth0.com/) developing tools for software quality
+- At [**AniChart**](https://anichart.net/) and [**AniList**](http://anilist.co/) designing and developing a social platform for sharing anime and manga
+- Working on [**Starship**](https://github.com/starship/starship), a minimal, blazing-fast, and infinitely customizable prompt for any shell
+
+### Let's talk!
+
+I'm interested in all things design and development. Let's make something cool!
+
+My DMs are open if you wanna chat: [Twitter](https://twitter.com/matchai)
