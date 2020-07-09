@@ -12,4 +12,4 @@
 
 I'm interested in all things design and development. Let's make something cool!
 
-My DMs are open if you wanna chat: [Twitter](https://twitter.com/matchai)
+My DMs are open if you want to chat: [Twitter](https://twitter.com/matchai)
